@@ -1,0 +1,14 @@
+#name-container{
+    display: block;
+    text-align: center;
+}
+
+
+.services{
+    height: 90%;
+}
+
+#services-section{
+    flex-wrap: wrap;
+}
+

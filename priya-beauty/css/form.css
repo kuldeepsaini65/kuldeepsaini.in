@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    flex-direction: column  ;
+}
+
+
+
+.form-option{
+    padding: 0.6rem 1.6rem;
+    margin: 0.3rem 1.2rem;
+    width: 200px;
+    text-transform: capitalize;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.form-option:hover{
+    text-decoration: underline;
+}
