@@ -15,6 +15,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        server: ftp://kuldeepsaini.in
-        username: kuldeepsaini65
+        server: ftp://217.21.94.177
+        username: tmax
         password: ${{ secrets.ftp_password }}
