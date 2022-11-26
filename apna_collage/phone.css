@@ -1,0 +1,42 @@
+.logo{
+    color: rgb(254, 0, 0);
+}
+
+.nav-container{
+    margin: 20px;
+}
+
+.nav{
+    padding: 15px;
+}
+
+.nav-items{
+    padding: 5px;
+}
+
+.section1{
+    text-align: left;
+}
+
+.text{
+    width: 80%;
+}
+
+.main-heading{
+    padding: 0px 0px 1px 0px;
+    margin: 0px;
+}
+
+.wrap{
+    line-height: 40px;
+    margin: 0px;
+}
+
+
+.section1{
+    height: 100%;
+}
+
+.main-img{
+    width: 95%;
+}
