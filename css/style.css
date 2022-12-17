@@ -107,6 +107,10 @@ nav{
     margin-bottom: 30px;
 }
 
+.myinfo>a{
+    color: red;
+}
+
 .img-box{
     width: 45%;
     height: 80%;
