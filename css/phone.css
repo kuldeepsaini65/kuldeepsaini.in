@@ -5,7 +5,13 @@ body{
 
 .info{
     width: 70%;
+    height: 130vh;
 }
+.myinfo{
+    margin-top: 3rem;
+    /* margin-top: 3rem; */
+}
+
 
 .img-box{
     visibility:hidden;

@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+
 .hero{
     font-family: 'Poppins', sans-serif;
     width: 100%;
@@ -53,6 +54,10 @@ nav{
 
 }
 
+.cv{
+    margin-top: 4rem;
+}
+
 
 .btn{
     border-radius: 6px;
@@ -79,12 +84,12 @@ nav{
 }
 
 .info{
-    /* padding: 1.3rem; */
+    padding: 5px;
     font-size: 1.1rem;
     margin-left: 8%;
     margin-top: 10%;
     width: 56%;
-    /* border: 2px solid green; */
+    /* border: 20px solid green; */
 }
 
 .info>h1{
@@ -175,12 +180,4 @@ nav{
 
 .python-projects{
     margin: 1.2rem;
-}
-
-footer{
-    /* border: 2px solid red; */
-    align-items: baseline;
-    padding: 2rem ;
-    position: absolute;
-    bottom: 1px;
 }
