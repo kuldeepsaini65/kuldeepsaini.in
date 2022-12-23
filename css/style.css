@@ -3,7 +3,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
 
@@ -148,10 +148,10 @@ nav{
 
 
 .website-projects{
-    /* border: 2px solid red; */
+    border: 2px solid rgb(0, 0, 0);
     display: flex;
     flex-wrap: wrap;
-    margin: 2.2rem 1.1rem;
+    margin: 2.2rem 0.6rem;
 }
 
 .websites{
@@ -160,7 +160,7 @@ nav{
     /* border: 2px solid rgb(253, 160, 20); */
     padding: 1.2rem 1.5rem;
     width: 25%;
-    margin: 12px;
+    margin: 10px;
     text-align: center;
     transition: all 0.2s ease-in;
 }
