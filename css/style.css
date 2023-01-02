@@ -148,7 +148,7 @@ nav{
 
 
 .website-projects{
-    border: 2px solid rgb(0, 0, 0);
+    /* border: 2px solid rgb(0, 0, 0); */
     display: flex;
     flex-wrap: wrap;
     margin: 2.2rem 0.6rem;
@@ -160,6 +160,7 @@ nav{
     /* border: 2px solid rgb(253, 160, 20); */
     padding: 1.2rem 1.5rem;
     width: 25%;
+    min-width: 200px;
     margin: 10px;
     text-align: center;
     transition: all 0.2s ease-in;
